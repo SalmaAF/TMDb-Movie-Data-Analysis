@@ -9,7 +9,7 @@ The project is about investigating on TMDb Movie dataset to find about answer so
 - Are higher budget movie get higher revinue?
 - What other properties reflect the movies that have high revenues?
 
-## installation:
+## Installation:
 For installing this project, jupyter notebook could be used.
 Also, Anaconda to install this packages
 - Pandas
